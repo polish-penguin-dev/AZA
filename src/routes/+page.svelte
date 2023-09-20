@@ -1,5 +1,6 @@
 <script>
-    import { Header } from "$lib/components";
+    import { Header, Timeline } from "$lib/components";
 </script>
 
 <Header />
+<Timeline />
