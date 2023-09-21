@@ -5,12 +5,12 @@
             timestamp: '07-12-22 06:00 GMT',
             articles: [
                 {
-                    img: 'path/to/your/image.jpg',
+                    img: '/logo.png',
                     title: 'Sample Post Title 1',
                     body: 'Description or summary for the post 1.'
                 },
                 {
-                    img: 'path/to/your/image2.jpg',
+                    img: '/logo.png',
                     title: 'Sample Post Title 2',
                     body: 'Description or summary for the post 2.'
                 }
@@ -21,7 +21,7 @@
             timestamp: '08-12-22 08:00 GMT',
             articles: [
                 {
-                    img: 'path/to/your/image3.jpg',
+                    img: '/logo.png',
                     title: 'Sample Post Title 3',
                     body: 'Description or summary for the post 3.'
                 }
