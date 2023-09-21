@@ -116,14 +116,6 @@
         padding-left: 1rem;
     }
 
-    .timeline > .timeline-item > .timeline-item-content {
-        display: flex;
-        flex-direction: column;
-        gap: 0.5rem;
-        margin-left: 0.5rem;
-        margin-top: 0.5rem;
-    }
-
     .timeline > .timeline-item > .timeline-item-salutation {
         display: flex;
         align-items: center;
